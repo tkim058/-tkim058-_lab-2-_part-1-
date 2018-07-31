@@ -1,8 +1,8 @@
 /*
  * [tkim058]_lab[2]_part[1].c
- * Partner(s) Name & E-mail: Lincoln Oh
+ * Partner(s) Name & E-mail: MinHwan Oh
  * Lab Section: B01
- * Assignment: Lab #1  Exercise #2
+ * Assignment: Lab #2  Exercise #1
  * Exercise Description: [Count number of 1 in A and B and return on C]
  *
  * I acknowledge all content contained herein, excluding template or example
